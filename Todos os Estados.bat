@@ -34,3 +34,12 @@ md "Rondonia (RO)"
 md "Amapa (AP)"
 md "Tocantins (TO)"
 
+cd..
+cd "Sul"
+md "Parana (PR)"
+md "Santa Catarina (SC)"
+md "Rio Grande do Sul (RS)"
+
+
+
+
