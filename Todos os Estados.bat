@@ -11,3 +11,26 @@ md "Mato Grosso (MT)"
 md "Mato Grosso do Sul(MS)"
 md "Goias (GO)"
 md "Distrito Federal (DF)"
+
+cd..
+cd "Nordeste"
+md "Maranhao (MA)"
+md "Piaui (PI)"
+md "Ceara (CE)"
+md "Rio Grande do Norte (RN)"
+md "Paraiba (PB)"
+md "Pernambuco (PE)"
+md "Alagoas (AL)"
+md "Sergipe (SE)"
+md "Bahia (BA)"
+
+cd..
+cd "Norte"
+md "Amazonas (AM)"
+md "Para (PA)"
+md "Acre (AC)"
+md "Roraima (RR)"
+md "Rondonia (RO)"
+md "Amapa (AP)"
+md "Tocantins (TO)"
+
