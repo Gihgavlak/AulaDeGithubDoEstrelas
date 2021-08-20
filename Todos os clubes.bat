@@ -1,3 +1,5 @@
 md "Todos os clubes"
 cd "Todos os clubes"
 md "Serie A"
+cd "Todos os clubes"
+md "Serie B"
