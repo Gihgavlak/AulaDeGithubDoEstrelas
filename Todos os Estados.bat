@@ -1,2 +1,3 @@
 md "Todos os Estados"
-cd "Centro-Oeste"
+cd "Todos os Estados"
+md "Centro-Oeste"
