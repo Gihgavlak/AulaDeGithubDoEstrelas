@@ -40,6 +40,11 @@ md "Parana (PR)"
 md "Santa Catarina (SC)"
 md "Rio Grande do Sul (RS)"
 
-
+cd..
+cd "Sudeste"
+md "Espirito Santo (ES)"
+md "Minas Gerais (MG)"
+md "Rio de Janeiro (RJ)"
+md "Sao Paulo (SP)"
 
 
